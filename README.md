@@ -2,7 +2,7 @@
      ##                 简单的动态背景
      1. 使用方式：
         直接将HSF_AnimatedImagesView.h 和.m 拖到项目中，通过实现数据源的方式创建简单的动态背景.
-![](https://github.com/hushuangfei/HSFGitHub/BackgroudAnimatedImageView/raw/master/BackgroudAnimatedImageView/backgroud.gif)
+![](https://github.com/hushuangfei/HSFGitHub/raw/master/BackgroudAnimatedImageView/backgroud.gif)
         
      2. 创建方式：
      （1）遵守数据源方法
